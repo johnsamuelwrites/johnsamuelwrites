@@ -1,4 +1,4 @@
-John Samuel
+# John Samuel
 
 
 **Research Interests**: Data Integration, Data Warehouses, Data Analysis, Big Data, Web Services, Knowledge Representation, 
