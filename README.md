@@ -20,3 +20,4 @@ Repository | Topic
 [DataMining](https://github.com/johnsamuelwrites/DataMining) | Data Mining
 [MachineLearning](https://github.com/johnsamuelwrites/MachineLearning) | Machine Learning
 [IA-DeepLearning](https://github.com/johnsamuelwrites/IA-DeepLearning) | Artificial Intelligence and DeepLearning
+[jscourses](https://github.com/johnsamuelwrites/jscourses) | Course notes and live-programming
