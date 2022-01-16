@@ -30,5 +30,6 @@ Repository | Topic
 -|-
 [SPARQLqueries](https://github.com/johnsamuelwrites/SPARQLqueries) | Tutorial on SPARQL queries
 [inclusive](https://github.com/johnsamuelwrites/inclusive) | Multilingual application for inclusive writing 
+[multilingual](https://github.com/johnsamuelwrites/multilingual) | Multilingual programming
 [dotfiles](https://github.com/johnsamuelwrites/dotfiles) | Configuration for Building Multilingual System 
 [ODDOL](https://github.com/johnsamuelwrites/ODDOL) | Open Data Driven Online Learning
