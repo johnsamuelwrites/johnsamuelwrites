@@ -23,6 +23,7 @@ Repository | Topic
 [MachineLearning](https://github.com/johnsamuelwrites/MachineLearning) | Machine Learning
 [IA-DeepLearning](https://github.com/johnsamuelwrites/IA-DeepLearning) | Artificial Intelligence and DeepLearning
 [TDM](https://github.com/johnsamuelwrites/TDM) | Massive data processing 
+[DP-DataMining](https://github.com/johnsamuelwrites/DP-DataMining) | Digitalisation des procédés: Data Mining
 [jscourses](https://github.com/johnsamuelwrites/jscourses) | Course notes and live-programming
 [AISchool](https://github.com/johnsamuelwrites/AISchool) | Artificial intelligence exercises for school students
 
