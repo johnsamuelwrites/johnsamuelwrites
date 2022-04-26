@@ -33,7 +33,7 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 
 Repository | Topic |
 | --- | --- |
-| [SPARQLqueries](https://github.com/johnsamuelwrites/SPARQLqueries) | Tutorial on SPARQL queries| --- | --- |
+| [SPARQLqueries](https://github.com/johnsamuelwrites/SPARQLqueries) | Tutorial on SPARQL queries| 
 | [multilingual](https://github.com/johnsamuelwrites/multilingual) | Multilingual programming |
 | [dotfiles](https://github.com/johnsamuelwrites/dotfiles) | Configuration for Building Multilingual System  |
 | [ODDOL](https://github.com/johnsamuelwrites/ODDOL) | Open Data Driven Online Learning |
