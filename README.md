@@ -5,6 +5,7 @@
 Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical Information Systems
 
 ## Multilingual Projects 
+
 | Repository | Topic |
 | --- | --- |
 | [Q42761025](https://github.com/johnsamuelwrites/Q42761025) | Abstract personal blog |
@@ -29,6 +30,7 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 | [AISchool](https://github.com/johnsamuelwrites/AISchool) | Artificial intelligence exercises for school students |
 
 ## Work in progress
+
 Repository | Topic |
 | --- | --- |
 | [SPARQLqueries](https://github.com/johnsamuelwrites/SPARQLqueries) | Tutorial on SPARQL queries| --- | --- |
