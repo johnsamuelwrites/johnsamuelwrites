@@ -33,6 +33,7 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 
 | Repository | Topic |
 | --- | --- |
+| [Awesome Wikidata](https://github.com/johnsamuelwrites/awesome-wikidata) | Curated list of Wikidata Projects |
 | [SPARQLqueries](https://github.com/johnsamuelwrites/SPARQLqueries) | Tutorial on SPARQL queries|
 | [multilingual](https://github.com/johnsamuelwrites/multilingual) | Multilingual programming |
 | [dotfiles](https://github.com/johnsamuelwrites/dotfiles) | Configuration for Building Multilingual System  |
