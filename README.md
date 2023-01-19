@@ -26,8 +26,9 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 |[IA-DeepLearning](https://github.com/johnsamuelwrites/IA-DeepLearning) | Artificial Intelligence and DeepLearning |
 |[TDM](https://github.com/johnsamuelwrites/TDM) | Massive data processing  |
 |[DP-DataMining](https://github.com/johnsamuelwrites/DP-DataMining) | Digitalisation des procédés: Data Mining |
+|[Chimie-Numérique](https://github.com/johnsamuelwrites/chimie-numerique) | Chimie-Numérique |
 |[jscourses](https://github.com/johnsamuelwrites/jscourses) | Course notes and live-programming |
-| [AISchool](https://github.com/johnsamuelwrites/AISchool) | Artificial intelligence exercises for school students |
+|[AISchool](https://github.com/johnsamuelwrites/AISchool) | Artificial intelligence exercises for school students |
 
 ## Work in progress
 
