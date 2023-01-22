@@ -4,6 +4,12 @@
 **Research Interests**: Data Integration, Data Warehouses, Data Analysis, Big Data, Web Services, Knowledge Representation, 
 Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical Information Systems
 
+## Mathematics
+
+| Repository | Topic |
+| --- | --- |
+| [A359012](https://github.com/johnsamuelwrites/A359012) | Experiments on the integer sequence [A359012](https://oeis.org/A359012) |
+
 ## Multilingual Projects 
 
 | Repository | Topic |
