@@ -25,16 +25,16 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 
 |Repository | Topic |DOI|
 | --- | --- | --- |
-|[ProgC](https://github.com/johnsamuelwrites/ProgC) | C Programming |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7339134.svg)](https://doi.org/10.5281/zenodo.7339134)|
-|[AlgoC](https://github.com/johnsamuelwrites/AlgoC) | Algorithms and C Programming |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6675164.svg)](https://doi.org/10.5281/zenodo.6675164)|
-|[DataMining](https://github.com/johnsamuelwrites/DataMining) | Data Mining |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6675238.svg)](https://doi.org/10.5281/zenodo.6675238)|
-|[MachineLearning](https://github.com/johnsamuelwrites/MachineLearning) | Machine Learning |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6675276.svg)](https://doi.org/10.5281/zenodo.6675276) |
-|[IA-DeepLearning](https://github.com/johnsamuelwrites/IA-DeepLearning) | Artificial Intelligence and DeepLearning |   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6675276.svg)](https://doi.org/10.5281/zenodo.6675276) |
-|[TDM](https://github.com/johnsamuelwrites/TDM) | Massive data processing  | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6675469.svg)](https://doi.org/10.5281/zenodo.6675469) |
-|[DP-DataMining](https://github.com/johnsamuelwrites/DP-DataMining) | Digitalisation des procédés: Data Mining | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6675518.svg)](https://doi.org/10.5281/zenodo.6675518) |
-|[Chimie-Numérique](https://github.com/johnsamuelwrites/chimie-numerique) | Chimie-Numérique |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7625542.svg)](https://doi.org/10.5281/zenodo.7625542)  |
-|[jscourses](https://github.com/johnsamuelwrites/jscourses) | Course notes and live-programming |   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6675624.svg)](https://doi.org/10.5281/zenodo.6675624)   |
-|[AISchool](https://github.com/johnsamuelwrites/AISchool) | Artificial intelligence exercises for school students |   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6675662.svg)](https://doi.org/10.5281/zenodo.6675662)  |
+|[ProgC](https://github.com/johnsamuelwrites/ProgC) | C Programming |[![DOI](./images/zenodo.7339134.svg)](https://doi.org/10.5281/zenodo.7339134)|
+|[AlgoC](https://github.com/johnsamuelwrites/AlgoC) | Algorithms and C Programming |  [![DOI](./images/zenodo.6675164.svg)](https://doi.org/10.5281/zenodo.6675164)|
+|[DataMining](https://github.com/johnsamuelwrites/DataMining) | Data Mining |  [![DOI](./images/zenodo.6675238.svg)](https://doi.org/10.5281/zenodo.6675238)|
+|[MachineLearning](https://github.com/johnsamuelwrites/MachineLearning) | Machine Learning |  [![DOI](./images/zenodo.6675276.svg)](https://doi.org/10.5281/zenodo.6675276) |
+|[IA-DeepLearning](https://github.com/johnsamuelwrites/IA-DeepLearning) | Artificial Intelligence and DeepLearning |   [![DOI](./images/zenodo.6675276.svg)](https://doi.org/10.5281/zenodo.6675276) |
+|[TDM](https://github.com/johnsamuelwrites/TDM) | Massive data processing  | [![DOI](./images/zenodo.6675469.svg)](https://doi.org/10.5281/zenodo.6675469) |
+|[DP-DataMining](https://github.com/johnsamuelwrites/DP-DataMining) | Digitalisation des procédés: Data Mining | [![DOI](./images/zenodo.6675518.svg)](https://doi.org/10.5281/zenodo.6675518) |
+|[Chimie-Numérique](https://github.com/johnsamuelwrites/chimie-numerique) | Chimie-Numérique |  [![DOI](./images/zenodo.7625542.svg)](https://doi.org/10.5281/zenodo.7625542)  |
+|[jscourses](https://github.com/johnsamuelwrites/jscourses) | Course notes and live-programming |   [![DOI](./images/zenodo.6675624.svg)](https://doi.org/10.5281/zenodo.6675624)   |
+|[AISchool](https://github.com/johnsamuelwrites/AISchool) | Artificial intelligence exercises for school students |   [![DOI](./images/zenodo.6675662.svg)](https://doi.org/10.5281/zenodo.6675662)  |
 
 ## Work in progress
 
