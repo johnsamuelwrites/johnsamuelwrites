@@ -27,7 +27,7 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 
 |Repository | Topic |DOI|
 | --- | --- | --- |
-|[SummerSchool-DS4C](https://github.com/johnsamuelwrites/SummerSchool-DS4C) | Summer School - Data Science for Chemists |
+|[SummerSchool-DS4C](https://github.com/johnsamuelwrites/SummerSchool-DS4C) | Summer School - Data Science for Chemists |[![DOI](./images/zenodo.12741710.svg)](https://doi.org/10.5281/zenodo.12741710)|
 
 ### Current Courses
 
