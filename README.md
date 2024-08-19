@@ -34,6 +34,7 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 |Repository | Topic |DOI|
 | --- | --- | --- |
 |[ProgC](https://github.com/johnsamuelwrites/ProgC) | C Programming |[![DOI](./images/zenodo.7339134.svg)](https://doi.org/10.5281/zenodo.7339134)|
+|[PLP](https://github.com/johnsamuelwrites/PLP) | Principes des Langages de Programmation ||
 |[DataMining](https://github.com/johnsamuelwrites/DataMining) | Data Mining |  [![DOI](./images/zenodo.6675238.svg)](https://doi.org/10.5281/zenodo.6675238)|
 |[MachineLearning](https://github.com/johnsamuelwrites/MachineLearning) | Machine Learning |  [![DOI](./images/zenodo.6675276.svg)](https://doi.org/10.5281/zenodo.6675276) |
 |[IA-DeepLearning](https://github.com/johnsamuelwrites/IA-DeepLearning) | Artificial Intelligence and DeepLearning |   [![DOI](./images/zenodo.6675276.svg)](https://doi.org/10.5281/zenodo.6675276) |
