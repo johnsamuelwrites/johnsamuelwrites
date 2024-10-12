@@ -15,6 +15,7 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 | Repository | Topic |
 | --- | --- |
 | [Q42761025](https://github.com/johnsamuelwrites/Q42761025) | Abstract personal blog |
+|[mlscores](https://github.com/johnsamuelwrites/mlscores)|Multilinguality score of Wikidata (or Wikibase) items|
 | [MultilingualCL](https://github.com/johnsamuelwrites/MultilingualCL) | Multilingual command-line |
 | [WDProp](https://github.com/johnsamuelwrites/wdprop) | Understanding Wikidata properties |
 | [ShExStatements](https://github.com/johnsamuelwrites/ShExStatements) | ShEx generation from CSV |
