@@ -59,5 +59,6 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 | [Awesome Wikidata](https://github.com/johnsamuelwrites/awesome-wikidata) | Curated list of Wikidata Projects |
 | [SPARQLqueries](https://github.com/johnsamuelwrites/SPARQLqueries) | Tutorial on SPARQL queries|
 | [multilingual](https://github.com/johnsamuelwrites/multilingual) | Multilingual programming |
+| [MultilingualCL](https://github.com/johnsamuelwrites/MultilingualCL|Multilingual command line |
 | [dotfiles](https://github.com/johnsamuelwrites/dotfiles) | Configuration for Building Multilingual System  |
 | [ODDOL](https://github.com/johnsamuelwrites/ODDOL) | Open Data Driven Online Learning |
