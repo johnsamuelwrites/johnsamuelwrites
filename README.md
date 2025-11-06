@@ -43,6 +43,7 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 |[TDM](https://github.com/johnsamuelwrites/TDM) | Massive data processing  | [![DOI](./images/zenodo.6675469.svg)](https://doi.org/10.5281/zenodo.6675469) |
 |[DP-DataMining](https://github.com/johnsamuelwrites/DP-DataMining) | Digitalisation des procédés: Data Mining | [![DOI](./images/zenodo.6675518.svg)](https://doi.org/10.5281/zenodo.6675518) |
 |[Data Science](https://github.com/johnsamuelwrites/DataScience) | Data Science |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10687448.svg)](https://doi.org/10.5281/zenodo.10687448) |
+|[Approfondissement-Python-TD](https://github.com/johnsamuelwrites/Approfondissement-Python-TD) | Advanced Python: Data Processing |  |
 |[jscourses](https://github.com/johnsamuelwrites/jscourses) | Course notes and live-programming |   [![DOI](./images/zenodo.6675624.svg)](https://doi.org/10.5281/zenodo.6675624)   |
 |[AISchool](https://github.com/johnsamuelwrites/AISchool) | Artificial intelligence exercises for school students |   [![DOI](./images/zenodo.6675662.svg)](https://doi.org/10.5281/zenodo.6675662)  |
 
