@@ -62,9 +62,14 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 | [SPARQLqueries](https://github.com/johnsamuelwrites/SPARQLqueries) | Tutorial on SPARQL queries|
 | [Queer Memory](https://github.com/johnsamuelwrites/queer-memory) | Queer History of the World|
 
-## Work in progress
+## Open Science
+
+| Repository | Topic |
+| --- | --- |
+| [ODDOL](https://github.com/johnsamuelwrites/ODDOL) | Open Data Driven Online Learning |
+
+## Command line
 
 | Repository | Topic |
 | --- | --- |
 | [dotfiles](https://github.com/johnsamuelwrites/dotfiles) | Configuration for Building Multilingual System  |
-| [ODDOL](https://github.com/johnsamuelwrites/ODDOL) | Open Data Driven Online Learning |
