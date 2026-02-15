@@ -1,8 +1,10 @@
 # John Samuel
 
+I am **John Samuel**, a researcher and educator working at the intersection of multilingual computing, knowledge graphs (Wikidata/Wikibase), and data/AI education. I design and maintain open-source tools for cultural heritage, inclusive and multilingual technologies, and data integration, and I publish my teaching material with DOIs for reuse in the classroom and beyond. My work spans data integration and warehouses, semantic web and description logics, machine learning and text/data mining, with a strong focus on reproducible, open, and multilingual resources.
 
-**Research Interests**: Data Integration, Data Warehouses, Data Analysis, Big Data, Web Services, Knowledge Representation, 
-Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical Information Systems
+## Featured works
+- **Research software**: Wikidata/Wikibase tools (e.g., Awesome Wikidata ecosystem, WDProp, WikiProvenance), multilingual and inclusive computing projects (MultilingualCL, inclusive, mlscores), and cultural heritage initiatives such as Queer Memory.​
+- **Teaching material** : Open courses on C programming, data science, machine learning, deep learning, text and data mining, and AI, many with archived releases and DOIs for citation and reuse.
 
 ## Mathematics
 
@@ -74,3 +76,7 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 | Repository | Topic |
 | --- | --- |
 | [dotfiles](https://github.com/johnsamuelwrites/dotfiles) | Configuration for Building Multilingual System  |
+
+
+**Research Interests**: Data Integration, Data Warehouses, Data Analysis, Big Data, Web Services, Knowledge Representation, 
+Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical Information Systems
