@@ -54,13 +54,14 @@ Semantic Web, Multidimensional Data Modeling, Description Logic, Geographical In
 |[Chimie-Numérique](https://github.com/johnsamuelwrites/chimie-numerique) | Chimie-Numérique |  [![DOI](./images/zenodo.7625542.svg)](https://doi.org/10.5281/zenodo.7625542)  |
 |[AlgoC](https://github.com/johnsamuelwrites/AlgoC) | Algorithms and C Programming |  [![DOI](./images/zenodo.6675164.svg)](https://doi.org/10.5281/zenodo.6675164)|
 
-## Wikimedia-related Projects
+## Wikimedia-related and Wikibase Instance Projects
 
 | Repository | Topic |
 | --- | --- |
 | [Awesome Wikidata](https://github.com/johnsamuelwrites/awesome-wikidata) | Curated list of Wikidata Projects |
 | [SPARQLqueries](https://github.com/johnsamuelwrites/SPARQLqueries) | Tutorial on SPARQL queries|
 | [Queer Memory](https://github.com/johnsamuelwrites/queer-memory) | Queer History of the World|
+| [WBProp](https://github.com/johnsamuelwrites/wbprop) | Understanding properties of any Wikibase instance (personal, Wikidata, FactGrid, Rhizome,..) |
 
 ## Open Science
 
