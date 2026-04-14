@@ -31,6 +31,7 @@ I am **John Samuel**, a researcher and educator working at the intersection of m
 
 |Repository | Topic |DOI|
 | --- | --- | --- |
+|[Ciencia de Datos - EL-BONGÓ](https://github.com/johnsamuelwrites/CienciadeDatos) | Ciencia de Datos - EL-BONGÓ ||
 |[SummerSchool-DS4C](https://github.com/johnsamuelwrites/SummerSchool-DS4C) | Summer School - Data Science for Chemists |[![DOI](./images/zenodo.12741710.svg)](https://doi.org/10.5281/zenodo.12741710)|
 
 ### Current Courses
